@@ -146,7 +146,7 @@ void setup()
    lcd.print("Rno 52 80 84");
    lcd.setCursor(0,1);
    lcd.print("  Alarm Clock  ");
-   delay(2000);
+   delay(5000);
     
  if(!RTC.isrunning())
  {
